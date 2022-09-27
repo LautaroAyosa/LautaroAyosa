@@ -1,5 +1,11 @@
-# Lautaro Ayosa
+# Hi! Welcome to my github profile
+Here are some projets you might like:
+- [Blog List](https://github.com/LautaroAyosa/BlogList): Created with MongoDB, Express, React and Node.js (MERN Stack).
+- [Random Quote Generator](https://github.com/LautaroAyosa/random-quote-app): A very simple web app to show that I can work with api's.
 
+## Let me introduce myself 
 My name is Lautaro Ayosa, I am an Argentinean full stack developer and entrepreneur looking for new ways to apply my programming and design skills. I am very passionate about my work and I ensure my objectives are clearly defined as I work hard to fulfill them.
-As a Full Stack Developer, with a passion for creating, I work hard to offer my clients solutions they can be proud of. 
-As a business owner, I challenge myself every day to make a positive impact on our growth. I am always looking for new opportunities to improve my skills and to continue growing as a professional.
+
+:man_technologist: As a Full Stack Developer, with a passion for creating, I work hard to offer my clients solutions they can be proud of.
+
+:man_office_worker: As a business owner, I challenge myself every day to make a positive impact on our growth. I am always looking for new opportunities to improve my skills and to continue growing as a professional.

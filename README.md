@@ -1,6 +1,7 @@
 # Hi! Welcome to my github profile
 Here are some projets you might like:
-- [Blog List](https://github.com/LautaroAyosa/BlogList): Created with MongoDB, Express, React and Node.js (MERN Stack).
+- [IMPDb](https://github.com/LautaroAyosa/IMPDb): Created with SQL, Sequelize, React, Express, Node.js, Axios and more.
+- [Blog List](https://github.com/LautaroAyosa/BlogList): Created with MongoDB, Express, React, Node.js (MERN Stack) and more.
 - [Random Quote Generator](https://github.com/LautaroAyosa/random-quote-app): A very simple web app to show that I can work with api's.
 
 ## Let me introduce myself 

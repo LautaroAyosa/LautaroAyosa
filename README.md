@@ -1,12 +1,7 @@
-# Hi! Welcome to my github profile
-Here are some projets you might like:
-- [IMPDb](https://github.com/LautaroAyosa/IMPDb): Created with SQL, Sequelize, React, Express, Node.js, Axios and more.
-- [Blog List](https://github.com/LautaroAyosa/BlogList): Created with MongoDB, Express, React, Node.js (MERN Stack) and more.
-- [Random Quote Generator](https://github.com/LautaroAyosa/random-quote-app): A very simple web app to show that I can work with api's.
+##Hi! 🖐 Welcome to my github profile.
 
-## Let me introduce myself 
-My name is Lautaro Ayosa, I am an Argentinean full stack developer and entrepreneur looking for new ways to apply my programming and design skills. I am very passionate about my work and I ensure my objectives are clearly defined as I work hard to fulfill them.
+I am Lautaro Ayosa, a full stack developer 💻 and entrepreneur 💼 from Argentina. I am passionate about creating and applying my programming and design skills to solve problems and create value.
 
-:man_technologist: As a Full Stack Developer, with a passion for creating, I work hard to offer my clients solutions they can be proud of.
+On my github profile, you will find some projects that showcase my skills and interests 💡. These include IMPDb, a web application built with SQL, Sequelize, React, Express, Node.js, and Axios, and Blog List, a MERN stack application built with MongoDB, Express, React, and Node.js. I also have a simple web app called Random Quote Generator 💬, which demonstrates my ability to work with APIs.
 
-:man_office_worker: As a business owner, I challenge myself every day to make a positive impact on our growth. I am always looking for new opportunities to improve my skills and to continue growing as a professional.
+As a full stack developer, I am committed to delivering high-quality solutions to my clients and am always looking for ways to improve my skills and grow as a professional. As a business owner, I am driven to make a positive impact on our growth 📈 and am always seeking new opportunities 🚀 to do so. Thank you for visiting my profile! 🙏
